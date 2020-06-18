@@ -9,6 +9,11 @@ Le cloud computing est la fourniture de différents services via Internet. Ces r
 
 Plutôt que de conserver des fichiers sur un disque dur propriétaire ou un périphérique de stockage local, le stockage basé sur le cloud  permet de les enregistrer dans une base de données distante. Tant qu'un appareil électronique a accès au Web, il a accès aux données et aux logiciels pour l'exécuter.
 
+Le cloud computing est une option populaire pour les particuliers et les entreprises pour un certain nombre de raisons, notamment les économies de coûts, l'augmentation de la productivité, la vitesse et l'efficacité, les performances et la sécurité.
+
+Comprendre le cloud computing
+Le cloud computing est nommé en tant que tel car les informations consultées se trouvent à distance dans le cloud ou dans un espace virtuel. Les entreprises qui fournissent des services cloud permettent aux utilisateurs de stocker des fichiers et des applications sur des serveurs distants, puis d'accéder à toutes les données via Internet. Cela signifie que l'utilisateur n'est pas obligé d'être dans un endroit spécifique pour y accéder, ce qui lui permet de travailler à distance.
+
 
 Un article de Wikipédia, l'encyclopédie libre
 Aller à la navigationAller à la recherche
