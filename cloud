@@ -1,6 +1,82 @@
 <h1>CLOUD</h1>
 <h2>Cloud computing</h2>
+POINTS CLÉS À RETENIR
+Le cloud computing est la fourniture de différents services via Internet, y compris le stockage de données, les serveurs, les bases de données, les réseaux et les logiciels.
+Le stockage basé sur le cloud permet d'enregistrer des fichiers dans une base de données distante et de les récupérer à la demande.
+Les services peuvent être publics et privés: les services publics sont fournis en ligne moyennant des frais, tandis que les services privés sont hébergés sur un réseau pour des clients spécifiques.
+Types de services cloud
+Quel que soit le type de service, les services de cloud computing offrent aux utilisateurs une série de fonctions, notamment:
 
+
+Email
+Stockage, sauvegarde et récupération de données
+Création et test d'applications
+Analyser les données
+Streaming audio et vidéo
+Livraison de logiciels à la demande
+
+Le cloud computing est encore un service relativement nouveau, mais il est utilisé par un certain nombre d'organisations différentes, des grandes entreprises aux petites entreprises, des organisations à but non lucratif aux agences gouvernementales et même aux particuliers.
+
+Modèles de déploiement
+Il existe différents types de nuages, chacun étant différent de l'autre. Les clouds publics fournissent leurs services sur les serveurs et le stockage sur Internet. Ceux-ci sont exploités par des sociétés tierces, qui gèrent et contrôlent tout le matériel, les logiciels et l'infrastructure générale. Les clients accèdent aux services via des comptes accessibles à peu près à n'importe qui.
+
+Les clouds privés sont réservés à une clientèle spécifique, généralement une entreprise ou une organisation. Le centre de services de données de l'entreprise peut héberger le service de cloud computing. De nombreux services de cloud computing privés sont fournis sur un réseau privé.
+
+Les nuages ​​hybrides sont, comme leur nom l'indique, une combinaison de services publics et privés. Ce type de modèle permet à l'utilisateur plus de flexibilité et contribue à optimiser l'infrastructure et la sécurité de l'utilisateur.
+
+ Les nouvelles formes de services de cloud computing incluent le cloud communautaire, le cloud big data et le multicloud.
+Types de cloud computing
+Le cloud computing n'est pas une technologie unique comme une puce électronique ou un téléphone portable. Il s'agit plutôt d'un système composé principalement de trois services: le logiciel en tant que service (SaaS) , l'infrastructure en tant que service (IaaS) et la plate-forme en tant que service (PaaS).
+
+Le logiciel en tant que service (SaaS) implique la licence d'une application logicielle aux clients. Les licences sont généralement fournies via un modèle de paiement à l'utilisation ou à la demande. Ce type de système se trouve dans Microsoft Office 365.
+L'infrastructure en tant que service (IaaS) implique une méthode pour tout fournir, des systèmes d'exploitation aux serveurs et au stockage via une connectivité IP dans le cadre d'un service à la demande. Les clients peuvent éviter d'avoir à acheter des logiciels ou des serveurs et à la place se procurer ces ressources dans un service externalisé à la demande. Des exemples populaires du système IaaS incluent IBM Cloud et Microsoft Azure.
+La plate-forme en tant que service (PaaS) est considérée comme la plus complexe des trois couches de l'informatique en nuage. Le PaaS partage certaines similitudes avec le SaaS, la principale différence étant qu'au lieu de fournir des logiciels en ligne, il s'agit en fait d'une plate-forme pour créer des logiciels qui sont fournis via Internet. Ce modèle comprend des plateformes comme Force.com et Heroku.
+Avantages du Cloud Computing 
+Les logiciels basés sur le cloud offrent aux entreprises de tous les secteurs un certain nombre d'avantages, notamment la possibilité d'utiliser des logiciels à partir de n'importe quel appareil via une application native ou un navigateur. Par conséquent, les utilisateurs peuvent transférer leurs fichiers et paramètres sur d'autres appareils de manière totalement transparente.
+
+Le cloud computing est bien plus qu'un simple accès à des fichiers sur plusieurs appareils. Grâce aux services de cloud computing, les utilisateurs peuvent consulter leurs e-mails sur n'importe quel ordinateur et même stocker des fichiers à l'aide de services tels que Dropbox et Google Drive. Les services de cloud computing permettent également aux utilisateurs de sauvegarder leur musique, leurs fichiers et leurs photos, garantissant que ces fichiers sont immédiatement disponibles en cas de panne du disque dur.
+
+Il offre également aux grandes entreprises un énorme potentiel de réduction des coûts. Avant que le cloud ne devienne une alternative viable, les entreprises devaient acheter, construire et entretenir des technologies et des infrastructures de gestion des informations coûteuses . Les entreprises peuvent échanger des centres de serveurs et des services informatiques coûteux contre des connexions Internet rapides, où les employés interagissent avec le cloud en ligne pour effectuer leurs tâches.
+
+La structure cloud permet aux individus d'économiser de l'espace de stockage sur leurs ordinateurs de bureau ou portables. Il permet également aux utilisateurs de mettre à niveau les logiciels plus rapidement, car les éditeurs de logiciels peuvent proposer leurs produits via le Web plutôt que par des méthodes plus traditionnelles et tangibles impliquant des disques ou des lecteurs flash. Par exemple, les clients Adobe peuvent accéder aux applications de sa suite Creative via un abonnement Internet. Cela permet aux utilisateurs de télécharger facilement de nouvelles versions et correctifs pour leurs programmes.
+
+Inconvénients du cloud
+Avec toute la vitesse, l'efficacité et les innovations qui accompagnent le cloud computing, il y a naturellement des risques.
+
+La sécurité a toujours été une grande préoccupation avec le cloud, en particulier en ce qui concerne les dossiers médicaux sensibles et les informations financières. Bien que la réglementation oblige les services de cloud computing à renforcer leurs mesures de sécurité et de conformité, cela reste un problème permanent. Le cryptage protège les informations vitales, mais si cette clé de cryptage est perdue, les données disparaissent.
+
+Les serveurs maintenus par des sociétés de cloud computing peuvent également être victimes de catastrophes naturelles, de bogues internes et de pannes de courant. La portée géographique du cloud computing se double dans les deux sens: un black-out en Californie pourrait paralyser les utilisateurs de New York et une entreprise du Texas pourrait perdre ses données si quelque chose faisait planter son fournisseur basé dans le Maine.
+
+Comme pour toute technologie, il existe une courbe d'apprentissage pour les employés et les gestionnaires. Mais avec de nombreuses personnes accédant et manipulant des informations via un portail unique, des erreurs involontaires peuvent se transmettre à travers un système entier.
+
+Le monde des affaires
+Les entreprises peuvent utiliser le cloud computing de différentes manières. Certains utilisateurs gèrent toutes les applications et données sur le cloud, tandis que d'autres utilisent un modèle hybride, en conservant certaines applications et données sur des serveurs privés et d'autres sur le cloud.
+
+Lorsqu'il s'agit de fournir des services, les grands acteurs de l'informatique d'entreprise sont les suivants:
+
+Google Cloud
+Amazon Web Services (AWS)
+Microsoft Azure
+IBM Cloud
+Aliyun
+Amazon Web Services est 100% public et comprend un modèle externalisé de paiement à l'utilisation. Une fois sur la plateforme, vous pouvez vous inscrire à des applications et à des services supplémentaires. Microsoft Azure permet aux clients de conserver certaines données sur leurs propres sites. Pendant ce temps, Aliyun est une filiale du groupe Alibaba.
+
+Rivalisez sans risque avec 100 000 $ en argent virtuel
+Mettez vos compétences de trading à l'épreuve avec notre simulateur de stock GRATUIT. Affrontez des milliers de traders Investopedia et échangez votre chemin vers le sommet! Soumettez des transactions dans un environnement virtuel avant de commencer à risquer votre propre argent. Pratiquer des stratégies de trading pour que lorsque vous êtes prêt à entrer sur le marché réel, vous ayez la pratique dont vous avez besoin. Essayez notre simulateur de stock aujourd'hui >>
+
+Termes connexes
+Qu'est-ce que la sécurité cloud?
+La sécurité du cloud protège les données et les actifs en ligne stockés sur des serveurs de cloud computing pour le compte de leurs utilisateurs clients. plus
+Comprendre le logiciel en tant que service (SaaS)
+Le logiciel en tant que service (SaaS) est une approche de cloud computing permettant aux utilisateurs d'accéder à un programme via Internet, afin que l'utilisateur puisse y accéder presque partout où il dispose d'une connexion Internet et sur une machine sécurisée. plus
+Qu'est-ce que la Blockchain-as-a-Service (BaaS)?
+Blockchain-as-a-Service (BaaS) est la création et la gestion tierces de réseaux basés sur le cloud pour les entreprises qui créent des applications de blockchain. plus
+Qu'est-ce que la cybersécurité?
+La cybersécurité fait référence aux mesures prises pour maintenir la confidentialité des informations électroniques, allant de la protection personnelle à la protection complexe du gouvernement. plus
+Attaque Zero-Day
+L'attaque Zero Day est une attaque qui exploite une faiblesse de sécurité logicielle potentiellement grave que le fournisseur ou le développeur peut ignorer. plus
+Services bancaires en ligne
+Les services bancaires en ligne permettent à un utilisateur d'effectuer des transactions financières via Internet. La banque en ligne est également connue sous le nom de banque sur Internet ou de banque en ligne. plus
 Un article de Wikipédia, l'encyclopédie libre
 Aller à la navigationAller à la recherche
 Pour le vainqueur des Preakness Stakes 2017, voir Cloud Computing (cheval) .
