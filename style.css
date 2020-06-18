@@ -1,0 +1,32 @@
+.fit-picture {
+    width: 300px;
+    height: 300px;
+    margin-left: 500px;
+    margin-right: auto;
+}
+body{
+	background-color: #D3D5D9;
+	font-family: Verdana, sans-serif;
+}
+h4{
+	color: red;
+	text-align: center;
+	text-decoration:underline;
+    margin : 0 0 10px 30px; /* haut, droite, bas, gauche (respectivement) */
+    font : 150% georgia, palatino, serif;
+    font-style : italic;
+}
+ h1 {
+ 	  text-align: center;
+      width: 200px;
+      height: 100px;
+      background: red;
+      border-radius: 100%;
+
+    }
+ p{
+ 	text-align: center;
+ }
+ .gpoint{
+ 	font-weight : bolder;
+ }
