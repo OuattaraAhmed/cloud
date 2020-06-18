@@ -2,6 +2,11 @@
 Nuage
 Cloud computing
 
+Qu'est-ce que le cloud computing?
+Le cloud computing est la fourniture de différents services via Internet. Ces ressources comprennent des outils et des applications comme le stockage de données, les serveurs, les bases de données, la mise en réseau et les logiciels.
+
+
+
 
 Un article de Wikipédia, l'encyclopédie libre
 Aller à la navigationAller à la recherche
